@@ -1,2 +1,2 @@
-# Emils-new-theme
+# EmilsNewTheme
 wordpress block theme from scratch
